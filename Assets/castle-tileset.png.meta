@@ -125,6 +125,9 @@ TextureImporter:
   - first:
       213: -3467819752308120672
     second: castle-tileset_41
+  - first:
+      213: -260051682290390410
+    second: castle-tileset_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -170,7 +173,7 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -381,10 +384,10 @@ TextureImporter:
       name: castle-tileset_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
-        width: 80
-        height: 16
+        x: 16
+        y: 199
+        width: 64
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -654,9 +657,9 @@ TextureImporter:
       name: castle-tileset_28
       rect:
         serializedVersion: 2
-        x: 34
-        y: 68
-        width: 12
+        x: 57
+        y: 192
+        width: 8
         height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -864,10 +867,10 @@ TextureImporter:
       name: castle-tileset_41
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 48
-        width: 16
-        height: 55
+        width: 14
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -877,6 +880,48 @@ TextureImporter:
       bones: []
       spriteID: 0a3679efe44dfdfc0800000000000000
       internalID: -3467819752308120672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-tileset_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 191
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de5b589035fd2040800000000000000
+      internalID: 4624621981442727633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-tileset_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 208
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aa6dd6f5c146cf0800000000000000
+      internalID: -260051682290390410
       vertices: []
       indices: 
       edges: []
